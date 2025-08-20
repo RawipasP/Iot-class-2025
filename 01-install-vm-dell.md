@@ -8,22 +8,22 @@
 
 | Title                  | Value                                               |
 | -----------------------| --------------------------------------------------- |
-| Full Name              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
-| Student ID              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__ |
-| Installation Date      | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
+| Full Name              | Rawipas Prakongsup|
+| Student ID              | 6510301014|
+| Installation Date      | 11/06/2025 |
 
 
 ---
 
 ## 🖥️ Device Information
 
-- 💻 **Device Model / Type**: ___________________________
+- 💻 **Device Model / Type**:  VM
 - 🧬 **Firmware Type**:  
   - [ ] UEFI  
   - [x] BIOS  
 - 🏷️ **Installation Type**:  
-  - [x] Physical PC  
-  - [ ] Virtual Machine (VM)
+  - [] Physical PC  
+  - [x] Virtual Machine (VM)
 
 ---
 
@@ -41,23 +41,22 @@
 
 | Title                   | Value                                               |
 | ------------------------| --------------------------------------------------- |
-| Network Interface Name  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\     |
-| IP Address              | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__ |
-| Netmask                 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
-| Gateway                 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
-| DNS                     | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
+| Network Interface Name  | ens18     |
+| IP Address              | 172.30.15.30 |
+| Netmask                 | 255.255.255.0 |
+| Gateway                 | 172.30.15.62 |
+| DNS                     | 8.8.8.8 |
 
 ---
 
 ## 🖧 Hostname
 
-- 🖥️ **Hostname Set**: ___________________________
-
+- 🖥️ **Hostname Set**: FDT6510301014
 ---
 
 ## 👤 User Account
 
-- 👨‍💻 **Username Created**: ___________________________
+- 👨‍💻 **Username Created**: u6510301014
 - 🔐 **Is a Root Password Set?**:  
   - [X] Yes  
   - [ ] No
